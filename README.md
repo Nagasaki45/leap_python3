@@ -5,7 +5,7 @@ This repo builds a python3 compatible version of the LeapMotion binaries by auto
 
 In your python / LeapMotion project run:
 
-    clone TODO
+    git clone https://github.com/Nagasaki45/leap_python3.git
     cd leap_python3
     ./build_leap_python3.sh
 
